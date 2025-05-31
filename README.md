@@ -4,6 +4,8 @@ A PHP web application that shows current weather by city, fetches random cat fac
 
 ---
 
+## 🎥 Video
+
 ![Uygulama GIF](./media/gifs/gif_1.gif)
 
 ## 🔍 Features
